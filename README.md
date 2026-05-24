@@ -32,19 +32,19 @@ Two AI twins run simultaneously:
 ## Architecture Diagrams
 
 ### System Overview
-![System Overview](docs/diagrams/system_overview.png)
+![System Overview]()
 
 ### Agent Pipeline
-![Agent Pipeline](docs/diagrams/agent_pipeline.png)
+![Agent Pipeline]()
 
 ### Fusion Layer
-![Fusion Layer](docs/diagrams/fusion_layer.png)
+![Fusion Layer]()
 
 ### Use Case — Human Actors
-![Use Case Human](docs/diagrams/usecase_human.png)
+![Use Case Human]()
 
 ### Use Case — Autonomous Agent Pipeline
-![Use Case Agents](docs/diagrams/usecase_agents.png)
+![Use Case Agents]()
 
 ---
 
