@@ -44,7 +44,7 @@ Two AI twins run simultaneously:
 ![Use Case Human](UseCase.jpeg)
 
 ### Use Case — Autonomous Agent Pipeline
-![Use Case Agents](HumanIntercation.jpeg)
+![Use Case Agents](HumanInteraction.jpeg)
 
 ---
 
