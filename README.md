@@ -32,7 +32,7 @@ Two AI twins run simultaneously:
 ## Architecture Diagrams
 
 ### System Overview
-![System Overview]()
+![System Overview](System.jpeg)
 
 ### Agent Pipeline
 ![Agent Pipeline]()
