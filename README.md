@@ -38,7 +38,7 @@ Two AI twins run simultaneously:
 ![Agent Pipeline](Agents.jpeg)
 
 ### Fusion Layer
-![Fusion Layer](Fusion Layer.jpeg)
+![Fusion Layer](Fusion.jpeg)
 
 ### Use Case — Human Actors
 ![Use Case Human](UseCase.jpeg)
