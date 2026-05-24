@@ -48,6 +48,3 @@ Two AI twins run simultaneously:
 
 ---
 
-## Tech Stack
-`Python` `FastAPI` `Neo4j` `Claude API` `ChromaDB` `React` `Cytoscape.js`
-
